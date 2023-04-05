@@ -1,0 +1,19 @@
+{
+  "name": "dispensable-box-indicate-nky1n",
+  "productName": "dispensable-box-indicate-nky1n",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "n2ape",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-store": "8.1.0",
+    "mqtt": "4.3.7"
+  },
+  "devDependencies": {
+    "electron": "22.0.2"
+  }
+}
